@@ -1,13 +1,13 @@
 ### Opaaa eu sou o Leonardo henrique, estudante de programação!
 - 🌱 Atualmente estou estudando JavaScript
 ##
-<div align="center" width="48%">
+<div align="center" >
   <a href="https://github.com/SoaresLeonardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoaresLeonardo&show_icons=&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresLeonardo&layout=compact&langs_count=7&theme=aura"/>
 </div>
   
-  <div width="48%" style="display: inline_block"><br>
+  <div  style="display: inline_block"><br>
 
  <img  align="center" alt="SoaresLeonardo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
