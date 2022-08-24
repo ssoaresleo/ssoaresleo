@@ -16,7 +16,7 @@
   <img align="center" alt="SoaresLeonardo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="SoaresLeonardo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="right" alt="SoaresLeonardo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998613310419243070/1012102388007579698/dsds.png?width=676&height=676">
+  <img align="right" alt="SoaresLeonardo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998613310419243070/1012119325483737139/dsds.png?width=676&height=676">
 </div>
   
   ##
