@@ -18,3 +18,6 @@
 
   <img align="right" alt="SoaresLeonardo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998613310419243070/1012084083658067988/37eb6e17cd10151111de379361b30557.png?width=676&height=676">
 </div>
+  
+  ##
+   ![Snake animation](https://github.com/SoaresLeonardo/SoaresLeonardo/blob/output/github-contribution-grid-snake.svg)
