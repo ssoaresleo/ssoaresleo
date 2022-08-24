@@ -1,5 +1,6 @@
 ### Opaaa eu sou o Leonardo henrique, estudante de programação!
 - 🌱 Atualmente estou estudando JavaScript
+- 🤓 Tenho conhecimento básico em HTML5, CSS3, TypeScript e React
 
 <div align="center">
   <a href="https://github.com/SoaresLeonardo">
