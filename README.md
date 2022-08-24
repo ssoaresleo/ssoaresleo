@@ -1,7 +1,7 @@
 ### Opaaa eu sou o Leonardo henrique, estudante de programação!
 - 🌱 Atualmente estou estudando JavaScript
 - 🤓 Tenho conhecimento básico em JavaScript, TypeScript, React, HTML5 e CSS3
-
+##
 <div align="center">
   <a href="https://github.com/SoaresLeonardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoaresLeonardo&show_icons=&theme=aura&include_all_commits=true&count_private=true"/>
