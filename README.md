@@ -23,6 +23,8 @@
   
   <div> 
     <a href="https://www.instagram.com/leosoareshenrique" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.facebook.com/leonardo.hsoaresalves" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+    
     
   ![Snake animation](https://github.com/SoaresLeonardo/SoaresLeonardo/blob/output/github-contribution-grid-snake.svg)
   </div>
