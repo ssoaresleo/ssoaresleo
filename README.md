@@ -1,4 +1,4 @@
-### Opaaa eu sou o Leonardo henrique, estudante de programação!
+### Opaaa eu sou o Leonardo Henrique, estudante de programação!
 ##
 <div align="center">
   <a href="https://github.com/SoaresLeonardo">
