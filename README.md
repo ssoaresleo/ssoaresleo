@@ -1,5 +1,4 @@
 ### Opaaa eu sou o Leonardo henrique, estudante de programação!
-- 🌱 Atualmente estou estudando JavaScript
 ##
 <div align="center">
   <a href="https://github.com/SoaresLeonardo">
