@@ -44,7 +44,7 @@
      <a href="https://discord.gg/ecdy6yxffx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     
    ![snake gif](https://github.com/SoaresLeonardo/SoaresLeonardo/blob/output/github-contribution-grid-snake.svg)
-   ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=SoaresLeonardo&hide_border=true&theme=dracula)
+  
 
   </div>
 
