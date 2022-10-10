@@ -13,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/SoaresLeonardo">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=SoaresLeonardo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresLeonardo&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=SoaresLeonardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresLeonardo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ### 🧑‍💻 Linguagens
@@ -44,7 +44,7 @@
      <a href="https://discord.gg/ecdy6yxffx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     
    ![snake gif](https://github.com/SoaresLeonardo/SoaresLeonardo/blob/output/github-contribution-grid-snake.svg)
-   ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=SoaresLeonardo&hide_border=true&theme=react-dark)
+   ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=SoaresLeonardo&hide_border=true&theme=dracula)
 
   </div>
 
