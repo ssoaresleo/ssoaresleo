@@ -4,7 +4,7 @@
 
 <h2>🤠 Sobre</h2>
  
-- 🚀 Meu portfólio **[SoaresLeonardo.com](https://soaresleonardo.github.io/portfolio/)**
+
 
 - 👨‍💻  Atualmente estou estudando `JavaScript`
 
