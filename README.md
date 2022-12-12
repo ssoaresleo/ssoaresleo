@@ -1,50 +1,21 @@
-<h1> Olá, eu sou o Leonardo Henrique :wave:</h1>
+# 💫 About Me:
+Desenvolvedor front-end no Brasil<br>Atualmente estudando e criando projetos com JavaScript<br>Pergunte-me sobre JavaScript
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leosoareshenrique) 
 
-<h2>🤠 Sobre</h2>
- 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SoaresLeonardo&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SoaresLeonardo&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresLeonardo&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SoaresLeonardo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 👨‍💻  Atualmente estou estudando `JavaScript`
+---
+[![](https://visitcount.itsvg.in/api?id=SoaresLeonardo&icon=1&color=4)](https://visitcount.itsvg.in)
 
- <br>
-
-
-<div align="center">
-  <a href="https://github.com/SoaresLeonardo">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=SoaresLeonardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresLeonardo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  ### 🧑‍💻 Linguagens
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="SoaresLeonardo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="SoaresLeonardo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
- <img  align="center" alt="SoaresLeonardo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-  <img align="center" alt="SoaresLeonardo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="SoaresLeonardo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
-
-
-  <img align="right" alt="SoaresLeonardo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998613310419243070/1012119325483737139/dsds.png?width=676&height=676">
-</div>
-  
-  ##
-  
-  <br>
-    
-###  😎 Minhas redes 
-  <div> 
-    <a href="https://www.instagram.com/leosoareshenrique" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.facebook.com/leonardo.hsoaresalves" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-     <a href="https://discord.gg/ecdy6yxffx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    
-   ![snake gif](https://github.com/SoaresLeonardo/SoaresLeonardo/blob/output/github-contribution-grid-snake.svg)
-  
-
-  </div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
