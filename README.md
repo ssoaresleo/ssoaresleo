@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor front-end no Brasil<br>Atualmente estudando e criando projetos com JavaScript<br>Pergunte-me sobre JavaScript
+Desenvolvedor front-end no Brasil<br>Atualmente estudando e criando projetos com JavaScript<br>
 
 
 ## 🌐 Socials:
