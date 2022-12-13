@@ -19,3 +19,4 @@ Desenvolvedor front-end<br>Atualmente estudando e criando projetos com JavaScrip
 [![](https://visitcount.itsvg.in/api?id=SoaresLeonardo&icon=1&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/SoaresLeonardo/SoaresLeonardo/blob/output/github-contribution-grid-snake.svg)
