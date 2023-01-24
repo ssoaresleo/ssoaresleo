@@ -2,7 +2,7 @@
 Eu me chamo Léo e dês de pequeno sempre fui apaixonado pela tecnologia, então comecei a minha carreira na programação em 2022 dês de então venho estudando e criando projetos com os meus conhecimentos.
 
 ## About Me:
-🌱 Atualmente estou aprendendo front-end<br>💬 Pergunte-me sobre: React, JavaScript e node<br>⚡ Minha linguagem de programação favorita é JavaScript 
+Atualmente estou aprendendo front-end<br> Pergunte-me sobre: React, JavaScript e node<br> Minha linguagem de programação favorita é JavaScript 
 
 
 ## Socials:
