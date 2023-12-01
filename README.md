@@ -1,43 +1,24 @@
-# Hello world devs 🤘
-Eu me chamo Léo e dês de pequeno sempre fui apaixonado pela tecnologia, então comecei a minha carreira na programação em 2022 dês de então venho estudando e criando projetos com os meus conhecimentos.
+## 👋 Olá, devs! Aqui quem fala é o <strong>Leo.</strong>
 
-## About Me:
-Atualmente estou estudando front-end junto com o back-end <br> Pergunte-me sobre: React, JavaScript e node<br> Minha linguagem de programação favorita é JavaScript :)
+> Atualmente sou desenvolvedor fullstack focado em frontend.
 
-## 🛠 Tech Stack:
+<a href="https://www.youtube.com/watch?v=ozZXMkp8MnQ&t=10621s">
+ <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white"/>
+<a/>
 
-### 💻 Front-end:
+Desde pequeno, sempre fui apaixonado por tecnologia. Realizava feitos que as pessoas ao meu redor achavam difíceis de compreender o que para mim era como uma brincadeira simples. Não demorou muito para que eu começasse a escrever códigos, tornando-me, assim, um desenvolvedor.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-### ⚙️  Back-end e banco de dados:
+### Principais tecnologias
+(React JS | Next JS | Javascript | HTML | CSS | Typescript) 🚀
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+---
 
-### ⚡ tools and others:
+- Explorando novas tecnologias e desenvolvendo soluções de software.
+- Curto JavaScript, Node, React.JS(Next.JS)
+- Aprendendo além do frontend, Nest.JS e GraphQL 💡
 
-![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+<p>💜 Amo o que faço e estou todos os dias me aprimorando para poder compartilhar meu conhecimento de maneira cada vez mais eficaz!</p>
 
- 
+<br/>
 
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SoaresLeonardo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SoaresLeonardo&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresLeonardo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SoaresLeonardo&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<hr>
-
-![snake gif](https://github.com/SoaresLeonardo/SoaresLeonardo/blob/output/github-contribution-grid-snake.svg)
+![](https://github-readme-stats.vercel.app/api?username=SoaresLeonardo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
