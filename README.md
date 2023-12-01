@@ -2,7 +2,7 @@
 
 > Atualmente sou desenvolvedor fullstack focado em frontend.
 
-<a href="https://www.youtube.com/watch?v=ozZXMkp8MnQ&t=10621s">
+<a href="">
  <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white"/>
 <a/>
 
