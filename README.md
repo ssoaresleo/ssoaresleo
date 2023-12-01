@@ -1,6 +1,6 @@
 ## 👋 Olá, devs! Aqui quem fala é o <strong>Leo.</strong>
 
-> Atualmente sou desenvolvedor fullstack focado em frontend.
+> Atualmente sou desenvolvedor full-stack focado em front-end.
 
 <a href="">
  <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white"/>
