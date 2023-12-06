@@ -8,7 +8,6 @@
 
 Desde pequeno, sempre fui apaixonado por tecnologia. Realizava feitos que as pessoas ao meu redor achavam difíceis de compreender o que para mim era como uma brincadeira simples. Não demorou muito para que eu começasse a escrever códigos, tornando-me, assim, um desenvolvedor.
 
-### Principais tecnologias
 (React JS | Next JS | Javascript | HTML | CSS | Typescript) 🚀
 
 ---
