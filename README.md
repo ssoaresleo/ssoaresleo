@@ -14,7 +14,7 @@ Desde pequeno, sempre fui apaixonado por tecnologia. Realizava feitos que as pes
 
 - Explorando novas tecnologias e desenvolvendo soluções de software.
 - Curto JavaScript, Node, React.JS(Next.JS)
-- Aprendendo além do frontend, Nest.JS e GraphQL 💡
+- Aprendendo TypeORM Nest.JS e GraphQL 💡
 
 <p>💜 Amo o que faço e estou todos os dias me aprimorando para poder compartilhar meu conhecimento de maneira cada vez mais eficaz!</p>
 
