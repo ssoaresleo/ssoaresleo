@@ -3,7 +3,7 @@
  <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white"/>
 <a/>
 
-Enthusiast of the best web development technologies.
+(React JS | NextJS | Typescript | Javascript ) 🚀
 
 I am constantly amazed by the vastness of the programming universe, the myriad opportunities, technologies, and the boundless future we can achieve!
 
