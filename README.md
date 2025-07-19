@@ -3,7 +3,7 @@
 ### Desenvolvedor Fullstack
 
 [![Linkedin Badge](https://img.shields.io/badge/-Leonardo%20Henrique-6e42c1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ssoaresleo/)](https://www.linkedin.com/in/ssoaresleo/)
-[![Instagram Badge](https://img.shields.io/badge/-@ssoares-6e42c1?style=flat-square&logoColor=white&link=https://www.instagram.com/ssoares/)](https://www.instagram.com/ssoares/)
+[![Instagram Badge](https://img.shields.io/badge/-@ssoares-6e42c1?style=flat-square&logoColor=white&link=https://www.instagram.com/ssoaresleo/)](https://www.instagram.com/ssoaresleo/)
 
 
 
