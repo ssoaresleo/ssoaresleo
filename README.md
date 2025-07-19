@@ -3,9 +3,7 @@
 ### Desenvolvedor Fullstack
 
 [![Linkedin Badge](https://img.shields.io/badge/-Leonardo%20Henrique-6e42c1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ssoaresleo/)](https://www.linkedin.com/in/ssoaresleo/)
-[![Instagram Badge](https://img.shields.io/badge/-@ssoares-6e42c1?style=flat-square&logoColor=white&link=https://www.instagram.com/ssoares.leo/)](https://www.instagram.com/ssoares.leo/)
-
-
+[![Instagram Badge](https://img.shields.io/badge/-@ssoaresleo-6e42c1?style=flat-square&logoColor=white&link=https://www.instagram.com/ssoares_leo/)](https://www.instagram.com/ssoares_leo/)
 
 "In the ever-expanding realm of programming, persistence reigns supreme. Talent, genius, and education all have their place, but it's the relentless pursuit of our goals that truly propels us forward."
 
